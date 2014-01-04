@@ -1,4 +1,7 @@
 baking-pi
 =========
 
-Baking Pi - Operating Systems Development (Cambridge University)
+Lesson 1
+--------
+
+Turns on the 'ACT' LED
